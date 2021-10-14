@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.header {
+    background-color:rgb(172, 118, 118);
+}
+.one {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.nav {
+    background-color: teal;
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+.clearfix {
+    clear: both;
+    height: 5px;
+    background-color: black;
+}
+.one1 {
+    background-color: rgb(130, 111, 160);
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.two {
+    background-color: rgb(124, 20, 90);
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-left: 5px;
+}
+.three {
+    background-color: rgb(96, 176, 196);
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-left: 5px;
+}
+.four {
+    background-color: rgb(169, 190, 45);
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-left: 5px;
+}
+.five {
+    background-color: rgb(243, 247, 39);
+    width: 40px;
+    height: 40px;
+    float: right;
+}
+.cube {
+    background-color: rgb(243, 247, 39);
+    width: 55px;
+    height: 55px;
+    float: left;
+    margin-left: 10px;
+}
+.cube1 {
+    background-color: rgb(158, 36, 121);
+    width: 55px;
+    height: 55px;
+    float: left;
+    margin-left: 10px;
+}
+.cube2 {
+    background-color: rgb(20, 58, 11);
+    width: 55px;
+    height: 55px;
+    float: right;
+    margin-right: 10px;
+}
+.cube3 {
+    background-color: rgb(243, 247, 39);
+    width: 55px;
+    height: 55px;
+    float: right;
+    margin-right: 10px;
+}
+.next2 {
+    height: 275px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+.bigcube1 {
+    background-color: rgb(84, 21, 185);
+    width: 270px;
+    height: 250px;
+    margin-top: 10px;
+    margin-left: 820px;
+    float: left;
+}
+.litlecube {
+    height: 265px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 820px;
+    width: 250px;
+    float: right;
+}
+.litlecube1 {
+    background-color: rgb(84, 21, 185);
+    width: 250px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.litlecube2 {
+    background-color: rgb(84, 21, 185);
+    width: 250px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.bigcube2 {
+    background-color: rgb(84, 21, 185);
+    width: 270px;
+    height: 250px;
+    margin-top: 10px;
+    float: right;
+}
+.litlecube2_1 {
+    height: 265px;
+    width: 250px;
+    float: right;
+    margin-right: 20px;
+}
+.litlecube3 {
+    background-color: rgb(185, 21, 117);
+    width: 250px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.litlecube4 {
+    background-color: rgb(59, 140, 175);
+    width: 250px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
